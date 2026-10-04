@@ -3,7 +3,7 @@
 Full-stack developer (MERN) moving into AI engineering.
 I build AI skills, agents, MCP connectors, and tools that make apps agent-friendly.
 
-🔨 **Currently building:** an MCP connector for clinic appointment booking
+🔨 **Currently building:** an MCP connector 
 
 📚 **Exploring:** agent tooling, RAG, and LLM evaluation
 
